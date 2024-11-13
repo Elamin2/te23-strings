@@ -1,5 +1,5 @@
 inventory = []
-name = input("hej, vad heter du?")
+name = input("hej, vad heter du?") # hur funkar det här , läs i boken, läxa
 greeting = "välkomen till [Elamins] värld. du vaknar upp efter en lång natts sömn..." 
 
 print(greeting)
