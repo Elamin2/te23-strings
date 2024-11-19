@@ -14,4 +14,6 @@ elif "maskros" in choice:
 else: 
     print("ok")
     print("men se där...") 
+
+    print ("hejdå")
     
